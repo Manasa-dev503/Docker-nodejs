@@ -1,0 +1,1 @@
+[{"uname":"manasa","password":"123","Email":"manasa@gmail.com"},{"uname":"pinky","password":"567","Email":"pinky@gmail.com"}]
